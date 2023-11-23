@@ -1,5 +1,7 @@
 # 🍎🥕 Fruits and Vegetables
 
+To see how I resolved this problem, read [this](./solution.md) file
+
 ## 🎯 Goal
 We want to build a service which will take a `request.json` and:
 * Process the file and create two separate collections for `Fruits` and `Vegetables`
